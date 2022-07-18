@@ -1,0 +1,11 @@
+/Users/yehudanevo/Desktop/lernAPI/Catalog/bin/Debug/net6.0/publish/Catalog
+/Users/yehudanevo/Desktop/lernAPI/Catalog/bin/Debug/net6.0/publish/appsettings.Development.json
+/Users/yehudanevo/Desktop/lernAPI/Catalog/bin/Debug/net6.0/publish/appsettings.json
+/Users/yehudanevo/Desktop/lernAPI/Catalog/bin/Debug/net6.0/publish/Catalog.dll
+/Users/yehudanevo/Desktop/lernAPI/Catalog/bin/Debug/net6.0/publish/Catalog.deps.json
+/Users/yehudanevo/Desktop/lernAPI/Catalog/bin/Debug/net6.0/publish/Catalog.runtimeconfig.json
+/Users/yehudanevo/Desktop/lernAPI/Catalog/bin/Debug/net6.0/publish/Catalog.pdb
+/Users/yehudanevo/Desktop/lernAPI/Catalog/bin/Debug/net6.0/publish/Microsoft.OpenApi.dll
+/Users/yehudanevo/Desktop/lernAPI/Catalog/bin/Debug/net6.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/yehudanevo/Desktop/lernAPI/Catalog/bin/Debug/net6.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/yehudanevo/Desktop/lernAPI/Catalog/bin/Debug/net6.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
